@@ -1,3 +1,5 @@
+import { Task, CreateTaskDTO, UpdateTaskDTO } from '../types/task'; // Adjust the path as needed
+
 let tasks: Task[] = [];
 let idCounter = 1;
 
