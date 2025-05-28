@@ -4,7 +4,6 @@
 - [Stack Technique](#-stack-technique)
 - [Prérequis](#-prérequis)
 - [Installation](#-installation)
-- [Lancement](#-lancement)
 - [Fonctionnalités](#-fonctionnalités)
 - [API](#-api)
 
@@ -35,7 +34,7 @@
 - npm v9+ ou yarn
 - Git (optionnel)
 
-## 📥 Installation
+## 📥 Installation 
 
 1. **Cloner le dépôt** :
    ```bash
@@ -53,4 +52,14 @@
     cd backend
     npm install
     npm run dev
-    
+
+## Fonctionnalités
+
+   ✨ Ajouter des tâches
+   
+   ✅ Marquer comme terminé
+   
+   🗑️ Supprimer des tâches
+   
+   🔄 Filtres All/En cours/Terminé
+   
